@@ -22,3 +22,4 @@ if __name__ == "__main__":
     print("Multiply:", multiply(10, 5))
     print("Divide:", divide(10, 5))
     print("Is Even:", is_even(4))
+    print("CI Trigger Working")
